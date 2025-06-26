@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuddptrr
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS & Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yudaputera11@gmail.com
 
